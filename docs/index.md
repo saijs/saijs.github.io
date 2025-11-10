@@ -4,7 +4,7 @@ pageType: home
 hero:
   name: JavaScript 
   text: 异常档案
-  tagline: 
+  tagline: Sai 是《棋魂》中追求神乎其技的魂。
   actions:
     - theme: brand
       text: 查看档案
